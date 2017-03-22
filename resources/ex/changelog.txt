@@ -1,0 +1,7 @@
+Version 0.1.0
+-BETA released
+Version 0.1.1 BETA
+-Bug fix: fixed bug that caused app to crash when adding extra images to the listbox
+-Bug fix: fixed crash when user accidentally extends crop boundary outside the image
+-Added functionality for clearing the listbox
+-Minor optimizations to character recognition

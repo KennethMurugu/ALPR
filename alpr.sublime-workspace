@@ -1,0 +1,786 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"this",
+				"this	$(this)"
+			],
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"toggl",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"to",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"class",
+				"description-Element.classList"
+			],
+			[
+				"su",
+				"substr(start)	String"
+			],
+			[
+				"html",
+				"html	.html()"
+			],
+			[
+				"pare",
+				"parents	.parents()"
+			],
+			[
+				"pre",
+				"preventDefault()	Event"
+			],
+			[
+				"bs3-col",
+				"bs3-col:3	bs3-col-3"
+			],
+			[
+				"bs3",
+				"bs3-row	bs3-row"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"soci",
+				"social-links"
+			],
+			[
+				"btn",
+				"button	Tag"
+			],
+			[
+				"disp",
+				"display = 'none'	Style CSS"
+			],
+			[
+				"getEl",
+				"getElementsByClassName(names)	Element"
+			],
+			[
+				"displa",
+				"display = 'block'	Style CSS"
+			],
+			[
+				"w",
+				"width	.width()"
+			],
+			[
+				"fun",
+				"function without name"
+			],
+			[
+				"va",
+				"valueOf()	String"
+			],
+			[
+				"val",
+				"valueOf()	String"
+			],
+			[
+				"geta",
+				"getAttribute(attributeName)	Element"
+			],
+			[
+				"inn",
+				"innerHTML	Element"
+			],
+			[
+				"getE",
+				"getElementById(id)	Element"
+			],
+			[
+				"Str",
+				"String(Object)	Object"
+			],
+			[
+				"Arr",
+				"new Array()	Array"
+			],
+			[
+				"le",
+				"length	String"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"aler",
+				"alert(message)	Window"
+			],
+			[
+				"tr",
+				"translate"
+			],
+			[
+				"r",
+				"rotateY()"
+			],
+			[
+				"bui",
+				"build_option"
+			],
+			[
+				"sc",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"tra",
+				"translate3d()"
+			],
+			[
+				"off",
+				"offset	.offset()"
+			],
+			[
+				"if",
+				"if else"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"remov",
+				"removeClass	.removeClass()"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"transform3d",
+				"transform = 'translate3d(x,y,z)'	Style CSS"
+			],
+			[
+				"sty",
+				"style	Style CSS"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"settim",
+				"setTimeout(func, delay)	Window"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"cu",
+				"currentScroll"
+			],
+			[
+				"cont",
+				"contact-list"
+			],
+			[
+				"mai",
+				"mailcheck"
+			],
+			[
+				"cli",
+				"clientEmail"
+			],
+			[
+				"al",
+				"alt_new_feedback"
+			],
+			[
+				"ne",
+				"new_feedback"
+			],
+			[
+				"navbar-lo",
+				"navbar-logo-left"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"head",
+				"header-wrap"
+			],
+			[
+				"s",
+				"scrolled_to"
+			],
+			[
+				"flex",
+				"flex-shrink"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"st",
+				"start_distance"
+			],
+			[
+				"scrol",
+				"scrolled_to"
+			],
+			[
+				"my",
+				"myDistanceOnLoad"
+			],
+			[
+				"fo",
+				"from"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"coo",
+				"cookie_name"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"Rew",
+				"RewriteRule"
+			],
+			[
+				"RE",
+				"REQUEST_URL"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"de",
+				"details_content"
+			],
+			[
+				"det",
+				"details_hidden"
+			],
+			[
+				"show",
+				"show_more"
+			],
+			[
+				"deta",
+				"details_content"
+			],
+			[
+				"pr",
+				"product-details"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"elem",
+				"elem_hide_prd"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"na",
+				"navbar-fixed-top"
+			],
+			[
+				"NAB",
+				"navbar-fixed-top"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"reduce",
+				"reduce-span"
+			],
+			[
+				"te",
+				"text-reduce"
+			],
+			[
+				"cla",
+				"classList"
+			],
+			[
+				"dr",
+				"dropdown-content"
+			],
+			[
+				"drop",
+				"dropdownbtn"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"product-",
+				"product-details"
+			],
+			[
+				"contact-li",
+				"contact-list-icons"
+			],
+			[
+				"S",
+				"script"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"MAR",
+				"margin-right"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"8",
+				"808000"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/XAMPP/htdocs/MOTION/index.php",
+		"/H/Number Plate Recognition/Python Workspace/ALPR/fileops/getfilename.py",
+		"/H/Number Plate Recognition/Python Workspace/ALPR/fileops/fileselector.py",
+		"/C/XAMPP/htdocs/printscharming/social-links.php",
+		"/C/XAMPP/htdocs/printscharming/index.php",
+		"/C/XAMPP/htdocs/test/bootstrap.html",
+		"/C/XAMPP/htdocs/SUBLIME_tests/dropdown.html",
+		"/C/XAMPP/htdocs/test/test2.html",
+		"/C/XAMPP/htdocs/printscharming/simplified.css/mystyle.simple.css",
+		"/C/XAMPP/htdocs/printscharming/js/myscripts.js",
+		"/C/XAMPP/htdocs/test/jsarrays.html",
+		"/C/XAMPP/htdocs/test/pageUri.html",
+		"/C/XAMPP/htdocs/test/maps.html",
+		"/C/XAMPP/htdocs/SUBLIME_tests/arrays.php",
+		"/C/XAMPP/htdocs/printscharming/js/index.php",
+		"/H/PizzaInn/DB/PizzaInn/connection.php",
+		"/H/PizzaInn/DB/PizzaInn/retrieveFromProfile.php",
+		"/H/PizzaInn/DB/PizzaInn/insertIntoProfile.php",
+		"/H/PizzaInn/DB/PizzaInn/insertIntoComment.php",
+		"/H/PizzaInn/DB/PizzaInn/retrieveFromComments.php",
+		"/C/XAMPP/htdocs/printscharming/navbar-contacts-top.php",
+		"/C/XAMPP/htdocs/printscharming/simplified.css/mystyle.min.css",
+		"/C/XAMPP/htdocs/printscharming/services.php",
+		"/C/XAMPP/htdocs/printscharming/navbar-contacts-bottom.php",
+		"/H/LibGDX/gdx-texturepacker-3.2.0/run gdx-texturepacker.bat",
+		"/H/Number Plate Recognition/Python Workspace/ALPR/fileops/processor/ocr.py",
+		"/H/Number Plate Recognition/PyInstaller-3.2/pyinstaller-gui.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/pytesseract/pytesseract.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/py2exe/samples/simple/setup.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/py2exe/samples/advanced/setup.py",
+		"/H/PROJECT/ALPR/setup-py2exe.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/cx_Freeze/hooks.py",
+		"/H/PROJECT/ALPR/setup.py",
+		"/H/Number Plate Recognition/Python Workspace/ALPR/setup.py",
+		"/C/XAMPP/htdocs/printscharming/contacts.php",
+		"/H/alprexec/ALPR/alpr.py",
+		"/H/Number Plate Recognition/Python Workspace/ALPR.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/cx_Freeze/samples/Tkinter/setup.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/cx_Freeze/samples/Tkinter/SimpleTkApp.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/pytesseract/__init__.py",
+		"/H/Number Plate Recognition/PyInstaller-3.2/pyinstaller.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/pytesseract/pytest.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/cx_Freeze/samples/advanced/setup.py",
+		"/H/alprexec/ALPR/setup.py",
+		"/H/GAMES/NBA 2K14/x360ce.tmp",
+		"/H/Number Plate Recognition/PyInstaller-3.2/PyInstaller/__main__.py",
+		"/C/Users/Kenneth/AppData/Local/Temp/Rar$DIa0.485/setup.py",
+		"/C/Users/Kenneth/AppData/Local/Temp/Rar$DIa0.002/setup.py",
+		"/C/Users/Kenneth/Desktop/hello.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/csv.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/sched.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/cx_Freeze/finder.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/pybrain/structure/modules/neuronlayer.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/pybrain/structure/modules/sigmoidlayer.py",
+		"/H/Number Plate Recognition/simple-ocr-opencv-master/example.py",
+		"/H/Number Plate Recognition/simple-ocr-opencv-master/classification.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/sklearn/linear_model/__init__.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/cx_Freeze/samples/matplotlib/setup.py",
+		"/C/Users/Kenneth/PythonWorkingDirectory/knn.py",
+		"/H/alprexec/ALPR/ui/ui.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/py2exe/samples/simple/test_wx.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/py2exe/samples/simple/hello.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/pandas/__init__.py",
+		"/C/Users/Kenneth/AppData/Local/Temp/Rar$DIa0.849/remove_contours.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/pandas/core/algorithms.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/pandas/compat/__init__.py",
+		"/H/Number Plate Recognition/Python Workspace/ALPR/ui/__init__.py",
+		"/H/Number Plate Recognition/Python Workspace/ALPR/constants/alpr/__init__.py",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/pandas/_period.pyd",
+		"/H/Number Plate Recognition/Pyhton Workspace/ALPRconstants.pyc",
+		"/C/Users/Kenneth/Downloads/Programs/OpenCV/opencv/sources/samples/python/numpy_array.py",
+		"/C/Users/Kenneth/Downloads/Programs/OpenCV/opencv/sources/samples/python2/facedetect.py",
+		"/C/Users/Kenneth/Downloads/Programs/OpenCV/opencv/sources/samples/python2/demo.py",
+		"/C/Users/Kenneth/Downloads/Programs/OpenCV/opencv/sources/samples/python2/contours.py",
+		"/C/Users/Kenneth/Desktop/temp.py",
+		"/C/Users/Kenneth/AppData/Local/Temp/Rar$DIa0.290/joystick.pyd",
+		"/C/Users/Kenneth/Anaconda2/Lib/site-packages/pygame/__init__.py",
+		"/C/Python27/Lib/site-packages/SimpleCV/Segmentation/DiffSegmentation.py",
+		"/C/Users/Kenneth/AppData/Local/Temp/Rar$DIa0.034/__init__.py",
+		"/H/GAMES/Dragonball Xenoverse/data2/data/system/aura_setting.aur",
+		"/C/Users/Kenneth/AppData/Roaming/Sublime Text 3/Installed Packages/Minifier.sublime-package",
+		"/C/Users/Kenneth/AppData/Roaming/Sublime Text 3/Packages/Minifier/Minifier.sublime-settings",
+		"/C/Users/Kenneth/AppData/Roaming/Sublime Text 3/Packages/User/Minifier.sublime-settings",
+		"/C/XAMPP/htdocs/printscharming/promise.php",
+		"/C/XAMPP/htdocs/printscharming/products.php",
+		"/C/XAMPP/htdocs/printscharming/blowing-our-trumpet.php",
+		"/C/XAMPP/htdocs/printscharming/about-us.php",
+		"/C/XAMPP/htdocs/printscharming/thank_you.php",
+		"/C/Users/Kenneth/Downloads/Windows Club/What is usoclient.exe in Windows 10_files/badge_data/rsAGLTcCOSXRWnTfbcPdPs696d2yFtTafeow.css",
+		"/H/GAMES/NBA 2K14/MODS + Rosters/Nba2KX_ModTool/ble_n2km_export.py",
+		"/C/XAMPP/htdocs/printscharming/bootstrap-3.3.5-dist/css/bootstrap.min.css",
+		"/C/XAMPP/htdocs/printscharming/bootstrap-3.3.5-dist/css/bootstrap.css",
+		"/C/Users/Kenneth/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/C/Users/Kenneth/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/XAMPP/htdocs/printscharming/js/test.html",
+		"/C/Users/Kenneth/AppData/Roaming/Sublime Text 3/Packages/CSScomb/README.md",
+		"/C/Users/Kenneth/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/XAMPP/htdocs/printscharming/services-slider/engine1/jquery.js",
+		"/C/XAMPP/htdocs/printscharming/js/jquery.js",
+		"/C/XAMPP/htdocs/SUBLIME_tests/.htaccess",
+		"/H/CLASS STUFF/2.2/Scientific Computing/Newton-Raphson method/newton-raphson.py",
+		"/C/Users/Kenneth/Desktop/nearest-neighbour.py",
+		"/C/XAMPP/htdocs/printscharming/blowing_trumpets.php",
+		"/C/XAMPP/htdocs/printscharming/navigation-toggle.php",
+		"/C/XAMPP/htdocs/printscharming/js/header-movement.js",
+		"/C/Users/Kenneth/AppData/Local/Temp/Rar$DIa0.180/email_send.php",
+		"/C/XAMPP/htdocs/SUBLIME_tests/js/testjs.js",
+		"/C/XAMPP/htdocs/SUBLIME_tests/textnavabar.html",
+		"/C/XAMPP/htdocs/printscharming/css/style.css",
+		"/H/Python/django-tutorial/mysite/mysite/settings.py",
+		"/H/Python/django-tutorial/mysite/personal/templates/personal/header.html",
+		"/H/Python/django-tutorial/mysite/personal/templates/personal/home.html",
+		"/C/XAMPP/htdocs/printscharming/.htaccess",
+		"/C/XAMPP/htdocs/printscharming/email_send.php",
+		"/C/Users/Kenneth/Desktop/Assignment.py",
+		"/H/Python/django-tutorial/mysite/personal/templates/personal/includes/htmlsnippet.html",
+		"/H/SUBLIME_tests/bootstrap_navs.html",
+		"/H/Python/django-tutorial/mysite/mysite/urls.py",
+		"/H/Python/django-tutorial/mysite/personal/views.py",
+		"/H/CLASS STUFF/2.2/Scientific Computing/KODI/CS LAB 1.py",
+		"/C/Users/Kenneth/Documents/Python Scripts/Input-Output/age-name_input_script.py",
+		"/H/Python/django-tutorial/mysite/personal/urls.py",
+		"/C/Users/Kenneth/Downloads/Python-Excel/Chapter 12 – Working with Excel Spreadsheets _ Automate the Boring Stuff with Python_files/style.css",
+		"/C/Users/Kenneth/AppData/Local/Temp/Rar$DIa0.528/setup.py",
+		"/J/Untitled6.md",
+		"/C/Users/Kenneth/Downloads/Python-Excel/Chapter 12 – Working with Excel Spreadsheets _ Automate the Boring Stuff with Python_files/css.css",
+		"/H/GAMES/LucasArts/Star Wars Battlefront II/GameData/ReShade.fx",
+		"/C/XAMPP/htdocs/printscharming/home-slider/engine1/wowslider.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"myFunction",
+			"baseURI",
+			"messageURI",
+			"card",
+			"wowsl",
+			"hove",
+			"run_tesseract",
+			"66",
+			"conta",
+			"rounded",
+			">",
+			"hidden",
+			"previousSCroll",
+			"lastSroll",
+			"buttonstyle",
+			"L",
+			"FAILED",
+			"to-top",
+			"contact-le",
+			"charming-values-fieldset",
+			"product-link-image",
+			"diaries-img",
+			"emph",
+			"_",
+			"product-list-extra-headings",
+			"product-list-background",
+			"about-us-benefits-list",
+			"_product_ic",
+			".val",
+			".val ",
+			".values-",
+			".values-main",
+			"reduce",
+			"table-div",
+			".link",
+			"#card",
+			"_link",
+			"content",
+			"mydDistanceOnLoad",
+			"contact-list",
+			"h1",
+			"links"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "alpr.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

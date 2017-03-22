@@ -1,0 +1,4 @@
+Description
+ALPR is a system built to read and extract license plate numbers from images
+Usage
+Load images into the system using the menu bar. Images will be listed on the right. Select image from the list and press the 'RECOGNIZE' button to begin processing the image

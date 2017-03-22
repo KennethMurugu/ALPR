@@ -1,0 +1,2 @@
+python alpr.py
+pause
